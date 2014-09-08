@@ -1,0 +1,4 @@
+testcaseid,testcasedescription,servername,path,woeid,units,execute,assertheader,userstory,assertcontent
+WEATHER-001,valid location (woeid),pdani-test.apigee.net,/weather/forecastrss,2502265,c,Y,HTTP/1.1 200 OK,CUSTOMER-089,city
+WEATHER-002,valid location (woeid),pdani-test.apigee.net,/weather/forecastrss,56465629,c,Y,HTTP/1.1 200 OK,CUSTOMER-101,city
+WEATHER-003,invalid location (woed),pdani-test.apigee.net,/weather/forecastrss,00000000,c,Y,HTTP/1.1 200 OK,CUSTOMER-102,city

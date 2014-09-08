@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><APIProxy name="weather-maven-jmeter" revision="1">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1384727595303</CreatedAt>
+    <CreatedBy>pdani@apigee.com</CreatedBy>
+    <Description>ApigeeCorporation git: cd0ea0b7 Pradeeps-MacBook-Pro.local ::weather example for maven and jmeter</Description>
+    <DisplayName>weather-maven-jmeter</DisplayName>
+    <LastModifiedAt>1384727595303</LastModifiedAt>
+    <LastModifiedBy>pdani@apigee.com</LastModifiedBy>
+    <Policies>
+        <Policy>xmltojson-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>

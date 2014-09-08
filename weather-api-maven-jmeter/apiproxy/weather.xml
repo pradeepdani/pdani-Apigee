@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="weather-maven-jmeter">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedAt>1384727595303</CreatedAt>
+    <CreatedBy>pdani@apigee.com</CreatedBy>
+    <Description>weather example for maven and jmeter</Description>
+    <DisplayName>weather-maven-jmeter</DisplayName>
+    <LastModifiedAt>1384727595303</LastModifiedAt>
+    <LastModifiedBy>pdani@apigee.com</LastModifiedBy>
+    <Policies>
+        <Policy>xmltojson-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
